@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/SDM/!svn/ver/153/Codigo_Fuente/trunk/WebServiceEnvioEmail/Fuente/WebServiceEnvioEmail/src/java/co/gov/aressoluciones/dto
+END
+MensajeDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/SDM/!svn/ver/153/Codigo_Fuente/trunk/WebServiceEnvioEmail/Fuente/WebServiceEnvioEmail/src/java/co/gov/aressoluciones/dto/MensajeDto.java
+END
+AutenticacionDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/SDM/!svn/ver/153/Codigo_Fuente/trunk/WebServiceEnvioEmail/Fuente/WebServiceEnvioEmail/src/java/co/gov/aressoluciones/dto/AutenticacionDto.java
+END
+PropiedadesServerDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/SDM/!svn/ver/153/Codigo_Fuente/trunk/WebServiceEnvioEmail/Fuente/WebServiceEnvioEmail/src/java/co/gov/aressoluciones/dto/PropiedadesServerDto.java
+END

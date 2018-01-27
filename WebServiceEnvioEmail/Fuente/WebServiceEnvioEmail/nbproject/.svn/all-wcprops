@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/SDM/!svn/ver/190/Codigo_Fuente/trunk/WebServiceEnvioEmail/Fuente/WebServiceEnvioEmail/nbproject
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/SDM/!svn/ver/186/Codigo_Fuente/trunk/WebServiceEnvioEmail/Fuente/WebServiceEnvioEmail/nbproject/project.properties
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SDM/!svn/ver/153/Codigo_Fuente/trunk/WebServiceEnvioEmail/Fuente/WebServiceEnvioEmail/nbproject/project.xml
+END
+genfiles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/SDM/!svn/ver/186/Codigo_Fuente/trunk/WebServiceEnvioEmail/Fuente/WebServiceEnvioEmail/nbproject/genfiles.properties
+END
+jax-ws.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SDM/!svn/ver/153/Codigo_Fuente/trunk/WebServiceEnvioEmail/Fuente/WebServiceEnvioEmail/nbproject/jax-ws.xml
+END
+jaxws-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/SDM/!svn/ver/186/Codigo_Fuente/trunk/WebServiceEnvioEmail/Fuente/WebServiceEnvioEmail/nbproject/jaxws-build.xml
+END
+rest-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SDM/!svn/ver/153/Codigo_Fuente/trunk/WebServiceEnvioEmail/Fuente/WebServiceEnvioEmail/nbproject/rest-build.xml
+END
+ant-deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SDM/!svn/ver/186/Codigo_Fuente/trunk/WebServiceEnvioEmail/Fuente/WebServiceEnvioEmail/nbproject/ant-deploy.xml
+END
+build-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SDM/!svn/ver/153/Codigo_Fuente/trunk/WebServiceEnvioEmail/Fuente/WebServiceEnvioEmail/nbproject/build-impl.xml
+END
